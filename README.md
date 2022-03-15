@@ -1,1 +1,1 @@
-# cube
+# Example of README.md
