@@ -1,2 +1,1 @@
-# Example of README.md
-*alex mallios*
+#"Example of README.md"
